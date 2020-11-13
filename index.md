@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Webpage on development
+# Webpage under development
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
